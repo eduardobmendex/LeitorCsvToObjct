@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "neat-csv": "^7.0.0"
+  },
+  "type": "module"
+
+}
